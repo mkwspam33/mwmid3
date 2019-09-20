@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>sn_mwmid3.alpha</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>alpha</name>
+        <script><![CDATA[var alpha = Class.create();
+alpha.prototype = {
+    initialize: function() {
+    },
+
+    type: 'alpha'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2019-09-20 21:46:57</sys_created_on>
+        <sys_id>b3217145db0400105dc970f5bf961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>alpha</sys_name>
+        <sys_package display_value="mwmid3" source="sn_mwmid3">8ab03905db0400105dc970f5bf9619a8</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="mwmid3">8ab03905db0400105dc970f5bf9619a8</sys_scope>
+        <sys_update_name>sys_script_include_b3217145db0400105dc970f5bf961972</sys_update_name>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2019-09-20 21:46:57</sys_updated_on>
+    </sys_script_include>
+</record_update>

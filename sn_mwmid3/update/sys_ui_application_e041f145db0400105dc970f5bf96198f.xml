@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Tabl1</name>
+        <order/>
+        <roles>sn_mwmid3.tabl1_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2019-09-20 21:47:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e041f145db0400105dc970f5bf96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tabl1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="mwmid3" source="sn_mwmid3">8ab03905db0400105dc970f5bf9619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mwmid3">8ab03905db0400105dc970f5bf9619a8</sys_scope>
+        <sys_update_name>sys_ui_application_e041f145db0400105dc970f5bf96198f</sys_update_name>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2019-09-20 21:47:13</sys_updated_on>
+    </sys_ui_application>
+</record_update>
