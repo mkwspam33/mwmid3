@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="alm_asset" label="ExtendsAsset" max_length="40" name="sn_mwmid3_extendsasset" type="collection">
-        <element label="Custom" max_length="40" name="custom" type="string"/>
-    </element>
-</database>
